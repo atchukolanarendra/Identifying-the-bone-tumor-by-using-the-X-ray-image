@@ -1,13 +1,7 @@
 # IDENTIFYING BONE TUMOR USING X-RAY IMAGES
 
 ### Presented By
-- SHAIK SHAHRAJ BEE                   : 	    208X1A0594
-- SHAIK MASTHAN JAVID VALI            :         208X1A0591
-- JAMPANI SRAVANTHI                   :         218X5A0510
-- NELAPATI MANOJ KUMAR                :         208X1A05C1
-
-### Under the Guidance of
-- MRS. P. LAVANYA M.TECH  (ASST. PROFESSOR)
+- Atchukola Narendra Kumar 
 
 <hr>
 
